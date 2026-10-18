@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l8-01-personal-vocabulary",
+  "title": "자기 어휘 목록 만들기",
+  "durationSec": 940.8047,
+  "version": 1,
+  "bgm": "Music: \"Modern Jazz Samba\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 77397363,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l8"
+ },
+ {
+  "moduleId": "m-l8-02-composition",
+  "title": "작곡과 컨트라팩트",
+  "durationSec": 1061.4557,
+  "version": 1,
+  "bgm": "Music: \"Local Forecast\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 83074329,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l8"
+ },
+ {
+  "moduleId": "m-l8-03-repertoire-building",
+  "title": "레퍼토리 구축과 암보",
+  "durationSec": 941.4135,
+  "version": 1,
+  "bgm": "Music: \"Mining by Moonlight\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 77562957,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l8"
+ },
+ {
+  "moduleId": "m-l8-04-self-critique",
+  "title": "녹음과 자기 비평",
+  "durationSec": 1013.0334,
+  "version": 1,
+  "bgm": "Music: \"Airport Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 81530520,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l8"
+ },
+ {
+  "moduleId": "m-l8-05-gig-readiness",
+  "title": "잼 세션과 무대 준비",
+  "durationSec": 869.7371,
+  "version": 1,
+  "bgm": "Music: \"Jazz Brunch\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 69320308,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l8"
+ },
+ {
+  "moduleId": "m-l8-06-recital",
+  "title": "졸업 연주 프로그램",
+  "durationSec": 935.0885,
+  "version": 1,
+  "bgm": "Music: \"Lobby Time\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 73881839,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l8"
+ }
+]
